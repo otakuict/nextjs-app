@@ -8,7 +8,7 @@ export default function Home() {
       </div>
 
       <div className="content">
-        <h2>Your Slide Content Here</h2>
+        <h2>Standing by Complete</h2>
       </div>
     </div>
   );
