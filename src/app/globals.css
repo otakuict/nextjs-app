@@ -17,9 +17,9 @@
   top: 0;
   width: 50%;
   height: 100%;
-  background: rgba(0, 0, 0, 0.5); /* Adjust the overlay color and opacity */
-  z-index: 1;
-  transition: all 0.3s ease; /* Add a transition for smooth animation */
+  background: rgba(255, 0, 0, 0.5); /* Adjust the overlay color and opacity */
+
+  transition: all 1s ease; /* Add a transition for smooth animation */
 }
 
 .overlay-slide::before {
