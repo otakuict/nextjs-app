@@ -22,7 +22,7 @@ export default function Circuit() {
           id="paths"
           className="path"
           stroke="#FFAE0C"
-          stroke-width="2"
+          stroke-width="3"
           fill="none"
           fill-rule="evenodd"
           stroke-linecap="round"
@@ -41,7 +41,7 @@ export default function Circuit() {
         </g>
         <g
           id="paths-bg"
-          stroke="#FFAE0C"
+          stroke="#ff2600"
           stroke-width="1.5"
           fill="none"
           fill-rule="evenodd"
